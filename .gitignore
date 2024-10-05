@@ -1,0 +1,65 @@
+﻿## Ignore Visual Studio temporary files, build results, and
+## user-generated files.
+
+/bin/
+/obj/
+/*.user
+/*.rsuser
+/*.suo
+/.vs
+.vscode/
+/.vsconfig
+
+# Ignore NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Ignore build results
+*.dll
+*.exe
+*.app
+*.log
+*.vsix
+*.pdb
+*.testresults
+*.Tests.dll
+*.Tests.pdb
+
+# Ignore database files
+*.mdf
+*.ldf
+*.sdf
+*.sqlite
+*.db
+
+# Ignore Rider and ReSharper files
+.idea/
+*.DotSettings
+_ReSharper.Caches/
+
+# Ignore coverage tool files
+*.coverage
+*.coveragexml
+coverage.*
+
+# Ignore bundler, minifier, and TypeScript output
+*.map
+bundleconfig.json
+
+# Ignore JetBrains Rider settings folder
+.idea/
+
+# Ignore macOS Finder metadata
+.DS_Store
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore other files
+!.gitignore
