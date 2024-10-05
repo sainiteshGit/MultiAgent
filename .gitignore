@@ -61,5 +61,7 @@ bundleconfig.json
 *.userosscache
 *.sln.docstates
 
+MultiAgent/obj/*
+MultiAgent/bin/*
 # Ignore other files
 !.gitignore
